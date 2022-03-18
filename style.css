@@ -180,6 +180,7 @@
   box-sizing: border-box;
   padding: 20px;
   opacity: 0;
+
 }
 
 .project__overlay:hover {

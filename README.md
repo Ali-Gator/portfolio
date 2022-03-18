@@ -1,1 +1,18 @@
-# Gordienov Oleg's portfolio
+# Проект: Портфолио
+
+Портфолио, в котором собраны проекты в рамках обучения в Yandex Practikum.
+
+## Используемые технологии
+
+* HTML
+* CSS (BEM)
+
+## Ссылки
+
+* [Cсылка на GitHub Pages](https://ali-gator.github.io/portfolio/)
+
+## Планы
+* Добавить ссылки на оставшиеся проекты
+
+
+
